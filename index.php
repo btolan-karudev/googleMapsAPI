@@ -18,6 +18,7 @@
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGcKPbeqyqSYW9CEnPqOpekH9Rl7OxxP0"></script>
 <script>
+
     // map options
     var myLatLong = {lat: 45.75, lng: 4.85};
     var mapOptions = {
